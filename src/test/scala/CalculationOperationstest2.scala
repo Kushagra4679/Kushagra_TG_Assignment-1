@@ -1,6 +1,3 @@
-//class CalculationOperationstest {
-//
-//}
 
 import org.scalatest.funsuite.AnyFunSuite
 
