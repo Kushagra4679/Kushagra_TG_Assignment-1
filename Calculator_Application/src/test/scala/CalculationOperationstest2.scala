@@ -1,7 +1,3 @@
-//class CalculationOperationstest {
-//
-//}
-
 import org.scalatest.funsuite.AnyFunSuite
 
 // Matchers have been used to assert an exception which can be arisen
