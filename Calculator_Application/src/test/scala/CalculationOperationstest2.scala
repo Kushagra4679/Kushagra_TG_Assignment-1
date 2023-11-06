@@ -35,8 +35,6 @@ class CalculationOperationstest2 extends AnyFunSuite with Matchers {
   test("Division_Exception test") {
 
     // ***** Learnt about intercept and Matchers *****
-
-    val calc_object = new CalculationOperations();
     val exception_occured = intercept[IllegalArgumentException] {
       calc_object.division(17, 0);
     }
