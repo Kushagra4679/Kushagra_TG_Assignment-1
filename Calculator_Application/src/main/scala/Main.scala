@@ -20,13 +20,3 @@ class CalculationOperations{
   }
 
 }
-
-object Main extends App {
-
-  val obj = new CalculationOperations();
-//  println(obj.product(9, 5));
-//  println(obj.difference(-9, -5));
-  val res_division = obj.division(37, 23);
-  println(obj.find_remainder(4, 8));
-//  print(s"Quotient obtained is $res_division");
-}
